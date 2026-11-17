@@ -2,10 +2,10 @@
 
 ### Java Backend Developer
 
-Desarrollador Backend con **3-5 años de experiencia** construyendo aplicaciones robustas, escalables y mantenibles con **Java** y **Kotlin**. Apasionado por el diseño de APIs, la arquitectura de software y las buenas prácticas de código.
+Desarrollador Backend con **3-5 años de experiencia** construyendo aplicaciones robustas, escalables y mantenibles con **Java**. Apasionado por el diseño de APIs, la arquitectura de software y las buenas prácticas de código.
 
-📍 Ubicación: (agregar ciudad/país)  
-🌐 Idiomas: Español (nativo) · Inglés (intermedio)
+📍 Ubicación: Posadas, Misiones, Argentina  
+🌐 Idiomas: Español (nativo) · Inglés (básico)
 
 ---
 
@@ -75,7 +75,7 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 | Idioma | Nivel |
 |--------|-------|
 | Español | Nativo |
-| Inglés | Intermedio |
+| Inglés | Básico |
 
 ---
 
@@ -84,7 +84,7 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-saucedo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabriSauce)
 
-📧 **Email:** (agregar email)
+📧 **Email:** fsaucedo.dev@gmail.com
 
 ---
 
