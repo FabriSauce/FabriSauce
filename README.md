@@ -81,9 +81,9 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabriSauce&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabriSauce&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriSauce&layout=compact&theme=default&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=FabriSauce&color=blue&style=flat)
 
 ---
 
