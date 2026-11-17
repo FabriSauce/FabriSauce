@@ -44,6 +44,17 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Bases de datos — Migraciones
+
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+
+### Observabilidad
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
 ### Aprendiendo
 
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
@@ -65,6 +76,7 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 - Modelado de datos y persistencia con **JPA / Hibernate** sobre **PostgreSQL**.
 - Containerización de aplicaciones con **Docker**.
 - Gestión de dependencias y builds con **Maven**.
+- Migraciones de base de datos con **Flyway** y **Liquibase**.
 - Desarrollo autodidacta con enfoque en buenas prácticas y código limpio.
 
 ---
@@ -99,6 +111,7 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 ## 🎯 Objetivos actuales
 
 - Profundizar en **Quarkus** y desarrollo cloud-native.
+- Practicar **observabilidad** con Prometheus, Grafana y OpenTelemetry.
 - Explorar **microservicios** y arquitecturas distribuidas.
 - Contribuir a proyectos **open source**.
 - Mejorar el nivel de inglés técnico.
