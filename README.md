@@ -30,6 +30,24 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+
+### Seguridad & Autenticación
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### Documentación de APIs
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+
+### Cache & Almacenamiento
+![Caffeine](https://img.shields.io/badge/Caffeine-007396?style=for-the-badge&logo=java&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+### Librerías adicionales
+![Bucket4j](https://img.shields.io/badge/Bucket4j-007396?style=for-the-badge&logo=java&logoColor=white)
+![Apache POI](https://img.shields.io/badge/Apache_POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![PDFBox](https://img.shields.io/badge/PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Bases de datos
 
@@ -73,10 +91,15 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 
 - **3-5 años** de experiencia profesional como desarrollador backend.
 - Diseño y desarrollo de **APIs REST** con Spring Boot y Spring.
-- Modelado de datos y persistencia con **JPA / Hibernate** sobre **PostgreSQL**.
+- Modelado de datos y persistencia con **JPA / Hibernate** sobre **PostgreSQL** y **H2**.
+- Autenticación y autorización con **Spring Security** y **JWT**.
+- Documentación de APIs con **Swagger / OpenAPI**.
+- Migraciones de base de datos con **Flyway** y **Liquibase** (incluyendo auditoría con **Hibernate Envers**).
+- Cache con **Caffeine** y almacenamiento de objetos con **MinIO**.
+- Generación de reportes con **Apache POI** (Excel) y **PDFBox** (PDF).
+- Rate limiting con **Bucket4j**.
 - Containerización de aplicaciones con **Docker**.
-- Gestión de dependencias y builds con **Maven**.
-- Migraciones de base de datos con **Flyway** y **Liquibase**.
+- Gestión de dependencias y builds con **Maven** (incluyendo **Jacoco** para cobertura).
 - Desarrollo autodidacta con enfoque en buenas prácticas y código limpio.
 
 ---
