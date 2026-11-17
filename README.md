@@ -2,7 +2,7 @@
 
 ### Java Backend Developer
 
-Desarrollador Backend con **3-5 años de experiencia** construyendo aplicaciones robustas, escalables y mantenibles con **Java**. Apasionado por el diseño de APIs, la arquitectura de software y las buenas prácticas de código.
+Desarrollador Backend con **3 años de experiencia** construyendo aplicaciones robustas, escalables y mantenibles con **Java**. Apasionado por el diseño de APIs, la arquitectura de software y las buenas prácticas de código.
 
 📍 Ubicación: Posadas, Misiones, Argentina  
 🌐 Idiomas: Español (nativo) · Inglés (básico)
@@ -20,26 +20,32 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ### Frameworks & Librerías
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Bases de datos
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Build & Herramientas
+
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
 
 ### DevOps & Contenedores
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Aprendiendo
+
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
 ---
@@ -72,19 +78,21 @@ Actualmente estoy ampliando mis conocimientos en **Quarkus** para desarrollo clo
 
 ## 🌐 Idiomas
 
-| Idioma | Nivel |
-|--------|-------|
+
+| Idioma  | Nivel  |
+| ------- | ------ |
 | Español | Nativo |
-| Inglés | Básico |
+| Inglés  | Básico |
+
 
 ---
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-saucedo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabriSauce)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-📧 **Email:** fsaucedo.dev@gmail.com
+📧 **Email:** [fsaucedo.dev@gmail.com](mailto:fsaucedo.dev@gmail.com)
 
 ---
 
